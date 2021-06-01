@@ -15,6 +15,7 @@ Mobile App & Game Developer. Specialized in Flutter, previously worked as an iOS
 | ---- | ----------- |
 | [flutter_pseudolocalizor](https://pub.dev/packages/flutter_pseudolocalizor) | A Pseudolocalization tool for Flutter and Dart which generates pseudo, nonsensical translations for multiple languages from a given English source. |
 | [arb_generator](https://pub.dev/packages/arb_generator) | A dart tool which generates ARB files from CSV files. |
+| [global_shortcuts](https://github.com/defuncart/global_shortcuts) | A macOS plugin which can register a callback for a global keyboard shortcut. |
 | [shogi](https://pub.dev/packages/shogi) | A simple shogi engine for Dart and Flutter. This engine can be combined with flutter_shogi_board to render static game board positions, tsume problems or shogi castles. |
 | [flutter_shogi_board](https://pub.dev/packages/flutter_shogi_board) | A shogi board widget for Flutter. This widget can be used to render static game board positions, tsume problems or shogi castles. |
 | [flappy_translator](https://pub.dev/packages/flappy_translator) | A tool which automatically generates Flutter localization resources from CSV and Excel files. |
