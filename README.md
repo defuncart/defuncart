@@ -15,7 +15,7 @@ Mobile App & Game Developer. Specialized in Flutter, previously worked as an iOS
 | ---- | ----------- |
 | [flutter_pseudolocalizor](https://pub.dev/packages/flutter_pseudolocalizor) | A Pseudolocalization tool for Flutter and Dart which generates pseudo, nonsensical translations for multiple languages from a given English source. |
 | [arb_generator](https://pub.dev/packages/arb_generator) | A dart tool which generates ARB files from CSV files. |
-| [global_shortcuts](https://github.com/defuncart/global_shortcuts) | A macOS plugin which can register a callback for a global keyboard shortcut. |
+| [global_shortcuts](https://pub.dev/packages/global_shortcuts) | A macOS plugin which can register a callback for a global keyboard shortcut. |
 | [shogi](https://pub.dev/packages/shogi) | A simple shogi engine for Dart and Flutter. This engine can be combined with flutter_shogi_board to render static game board positions, tsume problems or shogi castles. |
 | [flutter_shogi_board](https://pub.dev/packages/flutter_shogi_board) | A shogi board widget for Flutter. This widget can be used to render static game board positions, tsume problems or shogi castles. |
 | [flappy_translator](https://pub.dev/packages/flappy_translator) | A tool which automatically generates Flutter localization resources from CSV and Excel files. |
@@ -30,8 +30,9 @@ I've also contributed to various packages, for instance, [super_editor](https://
 | Name | Description | Status |
 | ---- | ----------- | ------ |
 | [shogi_proverbs](https://github.com/defuncart/shogi_proverbs) | A mobile application containing various Shogi proverbs. | Open beta |
+| [film_freund](https://github.com/defuncart/film_freund) | An application to discover new films and organize what to watch next. | In development |
+| [einbuergerungstest](https://github.com/defuncart/einbuergerungstest) | An application to help prepare for the German Einbürgerungstest. | Prototype |
 | [elola](https://github.com/defuncart/elola) | A fun Spanish nouns game. | Prototype |
 | [kifu_viewer](https://github.com/defuncart/kifu_viewer) | An application to view Shogi games by loading Kifu files. | Prototype |
 | [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | In development |
-| [photos_sync](https://github.com/defuncart/photos_sync) | A Flutter app to sync photos to/from a remote server. | Proof of concept |
-| [chat_messenger](https://github.com/defuncart/chat_messenger) | A simple chat messenger build using Flutter and Firebase. | Proof of concept |
+| [photos_sync](https://github.com/defuncart/photos_sync) | A Flutter app to sync photos to/from a remote server. | Prototype |
