@@ -31,8 +31,9 @@ I've also contributed to various packages, for instance, [super_editor](https://
 | ---- | ----------- | ------ |
 | [shogi_proverbs](https://github.com/defuncart/shogi_proverbs) | A mobile application containing various Shogi proverbs. | Open beta |
 | [film_freund](https://github.com/defuncart/film_freund) | An application to discover new films and organize what to watch next. | In development |
+| [messenger](https://github.com/defuncart/messenger) | A messaging application for mobile and desktop. | In development |
 | [einbuergerungstest](https://github.com/defuncart/einbuergerungstest) | An application to help prepare for the German Einbürgerungstest. | Prototype |
 | [elola](https://github.com/defuncart/elola) | A fun Spanish nouns game. | Prototype |
 | [kifu_viewer](https://github.com/defuncart/kifu_viewer) | An application to view Shogi games by loading Kifu files. | Prototype |
-| [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | In development |
+| [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | Prototype |
 | [photos_sync](https://github.com/defuncart/photos_sync) | A Flutter app to sync photos to/from a remote server. | Prototype |
