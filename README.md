@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James
 
-Mobile App & Game Developer. Specialized in Flutter, previously worked as an iOS Developer and Unity Game Developer.
+Mobile and desktop app developer. Specialized in Flutter, previously worked as an iOS Developer and Unity Game Developer.
 
 <table style="width:100%">
   <tr>
@@ -33,13 +33,21 @@ I've also contributed to various packages, for instance, [super_editor](https://
 | [film_freund](https://github.com/defuncart/film_freund) | An application to discover new films and organize what to watch next. | In development |
 | [messenger](https://github.com/defuncart/messenger) | A messaging application for mobile and desktop. | In development |
 | [einbuergerungstest](https://github.com/defuncart/einbuergerungstest) | An application to help prepare for the German Einbürgerungstest. | Prototype |
-| [elola](https://github.com/defuncart/elola) | A fun Spanish nouns game. | Prototype |
+| [photo_album](https://github.com/defuncart/photo_album) | A desktop application to organize your photos. | In development |
 | [kifu_viewer](https://github.com/defuncart/kifu_viewer) | An application to view Shogi games by loading Kifu files. | Prototype |
-| [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | Prototype |
 | [photos_sync](https://github.com/defuncart/photos_sync) | A Flutter app to sync photos to/from a remote server. | Prototype |
 
 ## Websites built with Flutter
 
-| Url                                              | GitHub Project |
-| ------------------------------------------------ | ----------- |
-| [flutterexpert.dev](https://flutterexpert.dev/) | [github.com/flutterexpertdev/flutterexpertdev.github.io](https://github.com/flutterexpertdev/flutterexpertdev.github.io) |
+| Url                                              | Source Code | Project |
+| ------------------------------------------------ | ----------- | ------- |
+| [flutterexpert.dev](https://flutterexpert.dev/) | [github.com/flutterexpertdev/flutterexpertdev.github.io](https://github.com/flutterexpertdev/flutterexpertdev.github.io) | One pager |
+| [defuncart.com](https://defuncart.com/) | [github.com/defuncart/defuncart.github.io](https://github.com/defuncart/defuncart.github.io) | Personal website |
+
+## Games built with Flutter
+
+| Name | Description | Status |
+| ---- | ----------- | ------ |
+| [der_die_das](https://github.com/defuncart/photos_sync) | A fun German articles quiz game. | In development |
+| [elola](https://github.com/defuncart/elola) | A fun Spanish nouns game. | Prototype |
+| [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | Prototype |
