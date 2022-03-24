@@ -33,6 +33,7 @@ I've also contributed to various packages, for instance, [super_editor](https://
 | [film_freund](https://github.com/defuncart/film_freund) | An application to discover new films and organize what to watch next. | In development |
 | [messenger](https://github.com/defuncart/messenger) | A messaging application for mobile and desktop. | In development |
 | [einbuergerungstest](https://github.com/defuncart/einbuergerungstest) | An application to help prepare for the German Einbürgerungstest. | Prototype |
+| [folders_sync](https://github.com/defuncart/folders_sync) | A macOS application which syncs the contents of a folder to another folder.  | In development |
 | [photo_album](https://github.com/defuncart/photo_album) | A desktop application to organize your photos. | In development |
 | [kifu_viewer](https://github.com/defuncart/kifu_viewer) | An application to view Shogi games by loading Kifu files. | Prototype |
 | [photos_sync](https://github.com/defuncart/photos_sync) | A Flutter app to sync photos to/from a remote server. | Prototype |
@@ -41,7 +42,7 @@ I've also contributed to various packages, for instance, [super_editor](https://
 
 | Url                                              | Source Code | Project |
 | ------------------------------------------------ | ----------- | ------- |
-| [flutterexpert.dev](https://flutterexpert.dev/) | [github.com/flutterexpertdev/flutterexpertdev.github.io](https://github.com/flutterexpertdev/flutterexpertdev.github.io) | One pager |
+| [flutterexpert.dev](https://flutterexpert.dev/) | [github.com/jamesflutterdev/jamesflutterdev.github.io](https://github.com/jamesflutterdev/jamesflutterdev.github.io) | One pager |
 | [defuncart.com](https://defuncart.com/) | [github.com/defuncart/defuncart.github.io](https://github.com/defuncart/defuncart.github.io) | Personal website |
 
 ## Games built with Flutter
