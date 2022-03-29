@@ -23,7 +23,7 @@ Mobile and desktop app developer. Specialized in Flutter, previously worked as a
 | [dart_code_coverage](https://github.com/defuncart/dart_code_coverage) | A package with helpers for generating and editing code coverage reports in dart. |
 
 I've also contributed to various packages, for instance, [super_editor](https://github.com/superlistapp/super_editor/graphs/contributors), 
-[adaptive_library](https://github.com/beagle-barks/adaptive_library/graphs/contributors), [inline_dialogs](https://github.com/1SouravGhosh/flutter_inline_dialogs/graphs/contributors), [web_scraper](https://github.com/tusharojha/web_scraper/graphs/contributors) and [giphy_picker](https://github.com/firstfloorsoftware/giphy_picker/graphs/contributors).
+[firebase_auth_mocks](https://github.com/atn832/firebase_auth_mocks/graphs/contributors),[adaptive_library](https://github.com/beagle-barks/adaptive_library/graphs/contributors), [web_scraper](https://github.com/tusharojha/web_scraper/graphs/contributors) and [giphy_picker](https://github.com/firstfloorsoftware/giphy_picker/graphs/contributors).
 
 ## Apps built with Flutter
 
@@ -52,3 +52,9 @@ I've also contributed to various packages, for instance, [super_editor](https://
 | [der_die_das](https://github.com/defuncart/photos_sync) | A fun German articles quiz game. | In development |
 | [elola](https://github.com/defuncart/elola) | A fun Spanish nouns game. | Prototype |
 | [bratacha](https://github.com/defuncart/bratacha) | A fun flag quiz game as Gaeilge (and other languages)! | Prototype |
+
+## VSCode Extensions
+
+| Name | Description |
+| ---- | ----------- |
+| [Dart File Utils](https://github.com/defuncart/vscode-dartfileutils) | A Visual Studio Code extension with useful utils for dart files. |
